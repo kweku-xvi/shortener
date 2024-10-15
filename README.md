@@ -35,5 +35,5 @@ A URL shortener built with Django and pyshorteners.
     python manage.py runserver
 
 7. **Access the app:**
-    Open your browser and navigate to: [URL Shortener] (http://127.0.0.1:8000/)
+    Open your browser and navigate to: [URL Shortener](http://127.0.0.1:8000/)
 
